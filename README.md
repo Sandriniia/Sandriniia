@@ -3,7 +3,7 @@
 #### I'm a Junior Full-Stack Web-Developer live in Malmö, Sweden. :sweden:
 
 * ✨ Working on Marvel Heroes and Movies apps.
-* 👀 Looking for job.
+* 👀 Looking for a job.
 * :pencil2: Study, study and study again.
 * :atom: I use Java Script, React, express.js, CSS, MongoDB, MySQL.
 * :purple_heart: I love books and hiking.
