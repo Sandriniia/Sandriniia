@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-#### I'm a Junior Full-Stack Web-Developer live in Malmö, Sweden. :sweden:
+#### I'm a Full-Stack Web-Developer live in Malmö, Sweden. :sweden:
 
 * ✨ Working at IKEA.
 * :pencil2: Study, study and study again.
